@@ -1,5 +1,4 @@
 # task1-install-ros-and-the-package
-install-ros-and-the-package-task1-
 # Steps to install Ros melodic
 These are the steps I used to install Ros melodic on Ubuntu 18.04
 
